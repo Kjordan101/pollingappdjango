@@ -1,4 +1,6 @@
 my_blog/__pychache__
 my_blog/settings.py
 polls/__pycache__
+db.sqlite3
+
 
